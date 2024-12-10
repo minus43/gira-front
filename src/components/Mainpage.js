@@ -36,7 +36,7 @@ export const Mainpage = () => {
             fontSize: '40px',
           }}
         >
-          GG
+          GIRAAAAAAAAAAAAAA버그많네요
           <br />
           ...
           <br />
