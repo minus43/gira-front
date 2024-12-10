@@ -36,7 +36,7 @@ export const Mainpage = () => {
             fontSize: '40px',
           }}
         >
-          GIRA
+          GG
           <br />
           ...
           <br />
