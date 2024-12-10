@@ -27,7 +27,7 @@ jobs:
           CI: false  # 빌드 경고를 에러로 처리하지 않도록 설정
 
       - name: AWS 자격증명 구성
-        uses: aws-actions/configure-aws-credentials@v6
+        uses: aws-actions/configure-aws-credentials@v4
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
